@@ -2,6 +2,7 @@ var time = "here";
 var golf = 2;
 var clubs = -2;
 var add1 = 3;
+// random comment
 
 /*
 git status
@@ -12,4 +13,7 @@ git push
 git pull
 
 git remote -v
+
+git branch
+
 */
