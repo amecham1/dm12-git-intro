@@ -15,5 +15,7 @@ git pull
 git remote -v
 
 git branch
+git checkout
+
 
 */
